@@ -1,4 +1,4 @@
-# LeetAlphabet
+# ANewAlphabet
 
 A lightweight Java command-line utility that converts any sentence into a playful “leet” representation by replacing each letter a-z with its New-Alphabet counterpart while leaving punctuation, digits, and spaces untouched.
 
@@ -6,7 +6,7 @@ A lightweight Java command-line utility that converts any sentence into a playfu
 
 ## Project Structure
 
-    LeetAlphabet/
+    ANewAlphabet/
     ├── src/
     │   └── ANewAlphabet.java
     └──
