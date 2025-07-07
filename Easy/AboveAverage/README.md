@@ -1,4 +1,4 @@
-# AboveAverageCalculator
+# AboveAverage
 
 A concise Java console application that reads multiple test cases, computes each class’s average score, and prints the percentage of students who scored above that average—perfect practice for loops, arrays, input parsing, and formatted output.
 This problem is inspired by the classic Kattis challenge: [AboveAverage](https://open.kattis.com/problems/aboveaverage).
